@@ -1,4 +1,4 @@
-NPM-module for Pushwoosh Web Push SDK  
+npm package for Pushwoosh Web Push SDK  
 =========================  
 ##Integration
 
@@ -15,7 +15,7 @@ NPM-module for Pushwoosh Web Push SDK
   "gcm_user_visible_only": true 
 }
 ```
-**3.** Copy `service-worker.js` file from module to you project static folder.  
+**3.** Copy `service-worker.js` file from module to your project public folder.  
 
 **4.** Add your Pushwoosh Application Code, default icon path, default title and service-worker path in `service-worker.js`     
 

@@ -1,0 +1,22 @@
+{
+  "name": "pushwoosh-notification",
+  "version": "0.0.1",
+  "description": "npm package for Pushwoosh Web Push SDK",
+  "main": "pushwoosh-web-notifications.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdunaev/web-push-notifications.git"
+  },
+  "keywords": [
+    "pushwoosh"
+  ],
+  "author": "Mihail Dunaev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdunaev/web-push-notifications/issues"
+  },
+  "homepage": "https://github.com/mdunaev/web-push-notifications#readme"
+}
